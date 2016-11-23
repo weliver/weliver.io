@@ -1,3 +1,3 @@
 weliver.io
 ==========
-My personal blog, powered by Jekyll.
+My personal blog, built with Jekyll.
